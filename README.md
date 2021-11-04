@@ -1,4 +1,4 @@
-# 🚀 Uformers for image denoising using Google Collab
+# 🚀 Uformers for image denoising using Google Colab
 ## Asbtract 📝
 Nowadays, thanks to computational and technological advances, computer vision has
 become an element that can be found in a multitude of daily situations. In addition, the
@@ -28,7 +28,7 @@ in this field.
 
 **Paper**: https://arxiv.org/abs/2106.03106
 
-This repository contains the implementation of the **Uformer** through the *Google Collab* platform. 
+This repository contains the implementation of the **Uformer** through the *Google Colab* platform. 
 
 New datasets have been evaluated with the **Uformer32** model. Subsequently, a new model has been trained with these datasets and re-evaluated to check the correct functioning of the fine-tuning and the increased accuracy of the results.
 
