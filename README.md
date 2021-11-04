@@ -28,7 +28,9 @@ in this field.
 
 **Paper**: https://arxiv.org/abs/2106.03106
 
-This repository contains the implementation of the **Uformer** via the *Google Collab* platform and is trained and evaluated with two new datasets.
+This repository contains the implementation of the **Uformer** through the *Google Collab* platform. 
+
+New datasets have been evaluated with the **Uformer32** model. Subsequently, a new model has been trained with these datasets and re-evaluated to check the correct functioning of the fine-tuning and the increased accuracy of the results.
 
 ## Acknowledgement 🥇
 This code borrows heavily from [Uformer](https://github.com/ZhendongWang6/Uformer).
